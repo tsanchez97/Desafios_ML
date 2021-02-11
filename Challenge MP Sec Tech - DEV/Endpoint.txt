@@ -1,0 +1,4 @@
+Para realizar un endpoint en la aplicación, hay que entrar a internet y, en la barra de direcciones, ingresar la siguiente ruta:
+"localhost:5000/informacion".
+
+Una vez ingresada la misma, el servidor nos arroja la lista con todo el detalle solicitado y, automáticamente se guarda, dentro de la carpeta del proyecto, un archivo ".json" con dicha información.
